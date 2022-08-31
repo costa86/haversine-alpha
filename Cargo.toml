@@ -6,7 +6,7 @@ authors = ["Lorenzo Costa <http://www.costa86.tech>"]
 license = "AGPL-3.0-only"
 description = "A CLI to get the distance (Km) between multiple coordinates using Haversine formula"
 keywords = ["cli", "haversine", "distance", "coordinates","geolocation"]
-repository = "https://github.com/costa86/coordinates-rust"
+repository = "https://github.com/costa86/haversine-alpha"
 
 [dependencies]
 clap = { version = "3.2.5", features = ["derive"] }
